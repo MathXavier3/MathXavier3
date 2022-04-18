@@ -1,7 +1,5 @@
 ## Hi! I'm Matheus Xavier 👋
 
-
-- 🥰 I live in 🇧🇷
 - 💻 Enthusiastic T.I technician eager to contribute to team success :grin:
 - 👩‍💻 i'm a frontend developer in development to become a fullstack, use Angular | TypeScript | JavaScript | NodeJS
 - ➡️ Pronouns: He/Him
