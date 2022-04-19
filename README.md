@@ -5,10 +5,12 @@
 - ➡️ Pronouns: He/Him
 
 
-  <div style="display: inline_block"><br><br>
+ <div style="display: inline_block"><br>
+  
   <a href="https://github.com/MathXavier3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathXavier3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathXavier3&layout=compact&langs_count=7&theme=gotham"/>  
+    
   </div>
   
   <div style="display: inline_block"><br><br>
