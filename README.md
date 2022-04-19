@@ -4,12 +4,14 @@
 - 👩‍💻 i'm a frontend developer in development to become a fullstack, use Angular | TypeScript | JavaScript | NodeJS
 - ➡️ Pronouns: He/Him
 
- <div style="display: inline_block">
+ <div style="display: flex">
   
   <a href="https://github.com/MathXavier3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathXavier3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   
+   <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathXavier3&layout=compact&langs_count=7&theme=gotham"/>  
-    
+   </div>
   </div>
   
   <div style="display: inline_block"><br><br>
